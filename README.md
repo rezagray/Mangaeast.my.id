@@ -1,2 +1,1 @@
-# Mangaeast.my.id
-For mangaeast.my.id
+Mangaeast.my.id
